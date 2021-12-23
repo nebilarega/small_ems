@@ -1,0 +1,6 @@
+#dependencies
+employee_mgmt_backend/node_modules/
+employee_mgmt_frontend/node_modules/
+
+#enviroment variables
+employee_mgmt_backend/env/
